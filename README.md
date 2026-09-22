@@ -1,4 +1,4 @@
-## Hi there 👋
+## Halo👋
 
 <!--
 **ghostedmyself/ghostedmyself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
