@@ -32,6 +32,10 @@ python -m gravpool.cli gui --auth-dirs auth
 - **Security research** — bug bounty recon and tooling
 - **Crypto & markets** — Solana tooling, prediction markets, trading automation
 
+## Support
+
+<a href="https://saweria.co/Ghostedmyself"><img src="https://img.shields.io/badge/Support%20via%20Saweria-FFB800?style=flat&logo=buymeacoffee&logoColor=black" alt="Support via Saweria"></a>
+
 ---
 
 <sub>© 2026 Omni.labs</sub>
